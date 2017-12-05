@@ -11,5 +11,34 @@ Exercise 1:
 
 • CustomerBaseMain defines objects to demonstrate these classes in the viva. 
 
+• Includes JUnit test.
+
 
 Exercise 2:
+
+• Var class creates a variable.
+
+• BuildClass has methods makeFields, makeConstructor, makeGetters, makeSetters, buildClass which generate the field variables, constructor, getters, setters and entire class, respectively.
+
+• Includes JUnit test.
+
+
+
+Exercise 3:
+
+• Ex3 has method Sieve which sieves the prime numbers up to some number.
+
+• Includes JUnit test.
+
+
+Exercise 4: 
+
+• Chess implements an interactive way to play chess. It is possible to enter moves of the type a2a4 from the command line in order to move the piece from a2 to a4 on the chessboard. If the user enters a command of incorrect pattern then an exception is thrown and caught appropriately. Note: this does not check if a move is legal.
+
+• Includes JUnit test.
+
+
+Exercise 5:
+
+• RSA is an implementation of the RSA method as described on the wikipedia page. 
+
