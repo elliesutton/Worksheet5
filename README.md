@@ -40,5 +40,7 @@ Exercise 4:
 
 Exercise 5:
 
-• RSA is an implementation of the RSA method as described on the wikipedia page. 
+• RSA is an implementation of the RSA method as described on the wikipedia page.
+
+•  Includes JUnit test
 
